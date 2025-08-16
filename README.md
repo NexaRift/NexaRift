@@ -6,7 +6,7 @@ Acredito que o futuro da tecnologia está fortemente ligado aos projetos de cód
 Em meus códigos, busco aplicar boas práticas de desenvolvimento, como padrões de projeto, para garantir que meus projetos sejam não apenas funcionais, mas também bem estruturados e de fácil manutenção.
 
 ## ✦ Habilidades
-- **Linguagens:** Python, Lua, C/C++
+- **Linguagens:** C/C++, Rust, Python, Lua
 
 ---
 
@@ -17,4 +17,4 @@ I believe that the future of technology is strongly tied to open-source projects
 In my code, I strive to apply good development practices, such as refactoring and design patterns, to ensure that my projects are not only functional but also well-structured and easy to maintain.
 
 ## ✦ Skills
-- **Languages:** Python, Lua, C/C++
+- **Languages:** C/C++, Rust, Python, Lua
