@@ -1,20 +1,22 @@
 # ✦ NexaRift
-Olá! Meu nome é Vitor, sou Técnico em Desenvolvimento de Sistemas e apaixonado por tecnologia. Meu objetivo no GitHub é disponibilizar projetos que possam ajudar outros desenvolvedores, focando em soluções simples e acessíveis.
+Olá! Meu nome é Vitor, sou Técnico em Desenvolvimento de Sistemas e um entusiasta da tecnologia. Este GitHub é meu espaço para criar e compartilhar projetos que possam ajudar outras pessoas, focando em soluções simples, acessíveis e de código aberto.
 
-Acredito que o futuro da tecnologia está fortemente ligado aos projetos de código aberto, pois eles permitem colaboração, inovação e aprimoramento contínuo. Sem o compartilhamento de conhecimento e a contribuição coletiva, corremos o risco de limitar o potencial de criação de soluções cada vez melhores.
+Acredito que o futuro da tecnologia é construído através da colaboração. Meus projetos aqui são uma forma de retribuir à comunidade que tanto me ensina, priorizando a clareza do código e a documentação para que qualquer pessoa possa usar, aprender e aprimorar.
 
-Em meus códigos, busco aplicar boas práticas de desenvolvimento, como padrões de projeto, para garantir que meus projetos sejam não apenas funcionais, mas também bem estruturados e de fácil manutenção.
-
-## ✦ Habilidades
+## ✦ Habilidades & Ferramentas
 - **Linguagens:** C/C++, Rust, Python, Lua
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-Hello! My name is Vitor, I'm a Systems Development Technician, and I'm passionate about technology. My goal on GitHub is to provide projects that can help other developers, focusing on simple and accessible solutions.
+Hello! My name is Vitor. I'm a Systems Development Technician and a technology enthusiast. This GitHub is my space to create and share projects that can help others, focusing on simple, accessible, and open-source solutions.
 
-I believe that the future of technology is strongly tied to open-source projects, as they enable collaboration, innovation, and continuous improvement. Without knowledge sharing and collective contribution, we risk limiting the potential for creating increasingly better solutions.
+I believe the future of technology is built through collaboration. My projects here are a way of giving back to the community that has taught me so much, prioritizing code clarity and documentation so that anyone can use, learn, and improve upon them.
 
-In my code, I strive to apply good development practices, such as refactoring and design patterns, to ensure that my projects are not only functional but also well-structured and easy to maintain.
-
-## ✦ Skills
+## ✦ Skills & Tools
 - **Languages:** C/C++, Rust, Python, Lua
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
