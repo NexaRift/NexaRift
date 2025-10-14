@@ -16,7 +16,7 @@ Mais do que um portfólio tradicional, enxergo este ambiente como uma ferramenta
 
 ---
 
-Hello! I'm Vitor, a Systems Development Technician.
+Hello! I'm Vitor, a **Systems Development Technician.**
 
 This GitHub is my digital lab, a space dedicated to practicing, experimenting, and improving my development skills. Each repository tells a part of my story: from concept tests and evolving projects to the mistakes that were essential to my learning. I value the process as much as the final result.
 
