@@ -7,10 +7,17 @@ Olá! Meu nome é Vitor e sou Técnico em Desenvolvimento de Sistemas. Este GitH
 Abaixo estão as linguagens e ferramentas que utilizo com mais frequência em meus estudos:
 
 #### _Linguagens de Programação:_
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 #### _Ambientes e Recursos:_
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)![MinGW](https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=mingww64&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+![MinGW](https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=mingww64&logoColor=white)
 
 
 ---
@@ -22,9 +29,16 @@ Hello! My name is Vitor and I’m a Systems Development Technician. This GitHub 
 Below are the languages and tools I use most often in my learning process:
 
 #### _Programming Languages:_
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 #### _Environments & Resources:_
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)![MinGW](https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=mingww64&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+![MinGW](https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=mingww64&logoColor=white)
 
 
