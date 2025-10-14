@@ -1,44 +1,31 @@
 # ✦ NexaRift
 
-Olá! Meu nome é Vitor e sou Técnico em Desenvolvimento de Sistemas. Este GitHub é um espaço para explorar ideias, cometer erros e, principalmente, compartilhar meu processo de aprendizagem. Não é um ambiente fechado — quero que todos que também estão aprendendo se sintam à vontade para contribuir e trocar experiências.
+Olá! Meu nome é Vitor, **Técnico em Desenvolvimento de Sistemas.**
+
+Este GitHub é o meu laboratório digital, um espaço dedicado à prática, experimentação e ao aprimoramento das minhas habilidades em desenvolvimento. Cada repositório conta uma parte da minha história: são testes de conceito, projetos em evolução e, claro, os erros que foram essenciais para meu aprendizado. Valorizo o processo tanto quanto o resultado final.
+
+Mais do que um portfólio tradicional, enxergo este ambiente como uma ferramenta de colaboração aberta. Quero que outros desenvolvedores, sejam eles iniciantes ou experientes, se sintam convidados a interagir, sugerir melhorias e compartilhar seus conhecimentos.
 
 ## ✦ Habilidades & Ferramentas
 
-Abaixo estão as linguagens e ferramentas que utilizo com mais frequência em meus estudos:
-
-#### _Linguagens de Programação:_
-
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-
-#### _Ambientes e Recursos:_
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-
-![MinGW](https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=mingww64&logoColor=white)
-
+- ```C/C++```
+- ```Java```
+- ```Python```
+- ```Git```
+- ```MinGW```
 
 ---
 
-Hello! My name is Vitor and I’m a Systems Development Technician. This GitHub is a space to explore ideas, make mistakes, and, above all, share my learning journey. It’s an open place — I want everyone who’s also learning to feel welcome to contribute and exchange knowledge.
+Hello! I'm Vitor, a Systems Development Technician.
+
+This GitHub is my digital lab, a space dedicated to practicing, experimenting, and improving my development skills. Each repository tells a part of my story: from concept tests and evolving projects to the mistakes that were essential to my learning. I value the process as much as the final result.
+
+More than a traditional portfolio, I see this environment as an open collaboration tool. I want other developers, be they beginners or experienced, to feel invited to interact, suggest improvements, and share their knowledge.
 
 ## ✦ Skills & Tools
 
-Below are the languages and tools I use most often in my learning process:
-
-#### _Programming Languages:_
-
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-
-#### _Environments & Resources:_
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-
-![MinGW](https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=mingww64&logoColor=white)
-
-
+- ```C/C++```
+- ```Java```
+- ```Python```
+- ```Git```
+- ```MinGW```
