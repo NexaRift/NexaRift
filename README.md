@@ -2,30 +2,21 @@
 
 Olá! Meu nome é Vitor, **Técnico em Desenvolvimento de Sistemas.**
 
-Este GitHub é o meu laboratório digital, um espaço dedicado à prática, experimentação e ao aprimoramento das minhas habilidades em desenvolvimento. Cada repositório conta uma parte da minha história: são testes de conceito, projetos em evolução e, claro, os erros que foram essenciais para meu aprendizado. Valorizo o processo tanto quanto o resultado final.
+Este perfil documenta minha jornada em três pilares: a exploração de linguagens, a contribuição open-source e a construção de ferramentas práticas. Aqui, o processo é tão importante quanto o resultado — cada repositório representa aprendizado, experimentação e crescimento.
 
-Mais do que um portfólio tradicional, enxergo este ambiente como uma ferramenta de colaboração aberta. Quero que outros desenvolvedores, sejam eles iniciantes ou experientes, se sintam convidados a interagir, sugerir melhorias e compartilhar seus conhecimentos.
+Encaro este espaço como uma colaboração contínua. Seja para trocar ideias, revisar código ou discutir abordagens, sua interação é sempre bem-vinda.
 
-## ✦ Habilidades & Ferramentas
+## ✦ Linguagens de Programação
 
-- ```C/C++```
-- ```Java```
-- ```Python```
-- ```Git```
-- ```MinGW```
+```Python``` ```Java``` ```Rust``` ```C\C++```
 
 ---
+Hello! My name is Vitor, **Systems Development Technician.**
 
-Hello! I'm Vitor, a **Systems Development Technician.**
+This profile documents my journey across three pillars: the exploration of languages, open-source contribution, and the construction of practical tools. Here, the process is as important as the result — each repository represents learning, experimentation, and growth.
 
-This GitHub is my digital lab, a space dedicated to practicing, experimenting, and improving my development skills. Each repository tells a part of my story: from concept tests and evolving projects to the mistakes that were essential to my learning. I value the process as much as the final result.
+I view this space as a continuous collaboration. Whether to exchange ideas, review code, or discuss approaches, your interaction is always welcome.
 
-More than a traditional portfolio, I see this environment as an open collaboration tool. I want other developers, be they beginners or experienced, to feel invited to interact, suggest improvements, and share their knowledge.
+## ✦ Programming Languages
 
-## ✦ Skills & Tools
-
-- ```C/C++```
-- ```Java```
-- ```Python```
-- ```Git```
-- ```MinGW```
+```Python``` ```Java``` ```Rust``` ```C\C++```
