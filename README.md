@@ -8,7 +8,7 @@ Encaro este espaço como uma colaboração contínua. Seja para trocar ideias, r
 
 ## ✦ Linguagens de Programação
 
-```Python``` ```Java``` ```Rust``` ```C\C++```
+```Python``` ```Java``` ```Go``` ```C\C++```
 
 ---
 Hello! My name is Vitor, **Systems Development Technician.**
@@ -19,4 +19,4 @@ I view this space as a continuous collaboration. Whether to exchange ideas, revi
 
 ## ✦ Programming Languages
 
-```Python``` ```Java``` ```Rust``` ```C\C++```
+```Python``` ```Java``` ```Go``` ```C\C++```
