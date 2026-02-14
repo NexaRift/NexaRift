@@ -1,21 +1,25 @@
 # ✦ NexaRift
 
-Olá! Meu nome é Vitor, **Técnico em Desenvolvimento de Sistemas.**
+Olá! Meu nome é Vitor.
 
-Este perfil documenta minha jornada em três pilares: a exploração de linguagens, a contribuição open-source e a construção de ferramentas práticas. Aqui, o processo é tão importante quanto o resultado — cada repositório representa aprendizado, experimentação e crescimento.
+Programo porque gosto de criar aplicações do zero — da ideia à implementação. Este perfil documenta projetos desenvolvidos por interesse pessoal, onde a diversão e o aprendizado são tão importantes quanto o resultado final. Trabalho principalmente com backend para aplicações que não envolvem web, e todos os repositórios são open-source.
 
-Encaro este espaço como uma colaboração contínua. Seja para trocar ideias, revisar código ou discutir abordagens, sua interação é sempre bem-vinda.
+Não tenho um projeto principal definido. Desenvolvo o que desperta meu interesse no momento, mantendo a liberdade como parte essencial do processo criativo. O objetivo é que cada projeto seja útil de alguma forma, seja como ferramenta prática ou entretenimento.
+
+Programo como hobby, então colaborações diretas podem ser limitadas por questão de tempo. No entanto, sugestões, feedback e discussões técnicas são sempre bem-vindos.
 
 ## ✦ Linguagens de Programação
 
 ```Python``` ```Java``` ```Go``` ```C\C++```
 
 ---
-Hello! My name is Vitor, **Systems Development Technician.**
+Hello! My name is Vitor.
 
-This profile documents my journey across three pillars: the exploration of languages, open-source contribution, and the construction of practical tools. Here, the process is as important as the result — each repository represents learning, experimentation, and growth.
+I code because I enjoy creating applications from scratch — from concept to implementation. This profile documents projects developed out of personal interest, where fun and learning are as important as the final result. I mainly work with backend for non-web applications, and all repositories are open-source.
 
-I view this space as a continuous collaboration. Whether to exchange ideas, review code, or discuss approaches, your interaction is always welcome.
+I don't have a main project defined. I develop whatever sparks my interest at the moment, keeping freedom as an essential part of the creative process. The goal is for each project to be useful in some way, whether as a practical tool or entertainment.
+
+I code as a hobby, so direct collaborations may be limited due to time constraints. However, suggestions, feedback, and technical discussions are always welcome.
 
 ## ✦ Programming Languages
 
