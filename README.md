@@ -10,7 +10,7 @@ Programo como hobby, então colaborações diretas podem ser limitadas por quest
 
 ## ✦ Linguagens de Programação
 
-```Python``` ```Java``` ```Go``` ```C\C++```
+```C\C++``` ```Python``` ```Java``` ```Go``` ```Rust```
 
 ---
 Hello! My name is Vitor.
@@ -23,4 +23,4 @@ I code as a hobby, so direct collaborations may be limited due to time constrain
 
 ## ✦ Programming Languages
 
-```Python``` ```Java``` ```Go``` ```C\C++```
+```C\C++``` ```Python``` ```Java``` ```Go``` ```Rust```
