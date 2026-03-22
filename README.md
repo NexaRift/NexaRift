@@ -10,4 +10,4 @@ I code as a hobby, so direct collaborations might be limited by time. However, s
 
 ### ⏷ Languages
 
-`Lua` · `Python` · `Java` · `Go` · `Rust`
+`Go` · `Java` · `Lua` · `Python` · `Rust`
