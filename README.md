@@ -8,6 +8,6 @@ I don't have a single main project. I build whatever sparks my interest at the m
 
 I code as a hobby, so direct collaborations might be limited by time. However, suggestions, feedback, and technical discussions are always welcome.
 
-## ▾ Programming Languages
+## Programming Languages
 
 `Lua` `Python` `Java` `Go` `Rust`
